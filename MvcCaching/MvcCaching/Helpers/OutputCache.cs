@@ -93,7 +93,6 @@ namespace MvcCaching.Helpers
 
                     System.Web.HttpContext.Current = context;
                 }
-
             }
         }
 
